@@ -1,47 +1,11 @@
 [
-  {
-    "id": "1",
-    "name": "Nemtii",
-    "url": "https://github.com/PatruRobert/qralarm-sounds/blob/main/nemtii.mp3"
-  },
-  {
-    "id": "2",
-    "name": "Rusia",
-    "url": "https://github.com/PatruRobert/qralarm-sounds/blob/main/rusia.mp3"
-  },
-  {
-    "id": "1",
-    "name": "War sounds 1",
-    "url": "https://github.com/PatruRobert/qralarm-sounds/blob/main/ww2_1.mp3"
-  },
-  {
-    "id": "1",
-    "name": "War sounds 2",
-    "url": "https://github.com/PatruRobert/qralarm-sounds/blob/main/ww2_2.mp3"
-  },
-  {
-    "id": "1",
-    "name": "Boss",
-    "url": "https://github.com/PatruRobert/qralarm-sounds/blob/main/boss.mp3"
-  },
-  {
-    "id": "1",
-    "name": "BUG_MAFIA_1",
-    "url": "https://github.com/PatruRobert/qralarm-sounds/blob/main/bug_mafia.mp3"
-  },
-  {
-    "id": "1",
-    "name": "Elvetia",
-    "url": "https://github.com/PatruRobert/qralarm-sounds/blob/main/elvetia.mp3"
-  },
-  {
-    "id": "1",
-    "name": "BUG_Mafia_2",
-    "url": "https://github.com/PatruRobert/qralarm-sounds/blob/main/strazile.mp3"
-  },
-  {
-    "id": "1",
-    "name": "Mocanu - ST",
-    "url": "https://github.com/PatruRobert/qralarm-sounds/blob/main/sunt_tigan.mp3"
-  },
+  { "id": "1", "name": "Nemtii", "url": "https://raw.githubusercontent.com/PatruRobert/qralarm-sounds/main/nemtii.mp3" },
+  { "id": "2", "name": "Rusia", "url": "https://raw.githubusercontent.com/PatruRobert/qralarm-sounds/main/rusia.mp3" },
+  { "id": "3", "name": "War sounds 1", "url": "https://raw.githubusercontent.com/PatruRobert/qralarm-sounds/main/ww2_1.mp3" },
+  { "id": "4", "name": "War sounds 2", "url": "https://raw.githubusercontent.com/PatruRobert/qralarm-sounds/main/ww2_2.mp3" },
+  { "id": "5", "name": "Boss", "url": "https://raw.githubusercontent.com/PatruRobert/qralarm-sounds/main/boss.mp3" },
+  { "id": "6", "name": "BUG Mafia 1", "url": "https://raw.githubusercontent.com/PatruRobert/qralarm-sounds/main/bug_mafia.mp3" },
+  { "id": "7", "name": "Elvetia", "url": "https://raw.githubusercontent.com/PatruRobert/qralarm-sounds/main/elvetia.mp3" },
+  { "id": "8", "name": "BUG Mafia 2", "url": "https://raw.githubusercontent.com/PatruRobert/qralarm-sounds/main/strazile.mp3" },
+  { "id": "9", "name": "Mocanu - ST", "url": "https://raw.githubusercontent.com/PatruRobert/qralarm-sounds/main/sunt_tigan.mp3" }
 ]
